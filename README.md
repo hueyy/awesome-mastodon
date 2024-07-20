@@ -109,7 +109,7 @@ Comparison lists:
 * [Herd](https://apps.apple.com/us/app/herd-for-mastodon/id6447533834) ([Mastodon](https://mastodon.social/@CityOfTheMoon)) - A brand new Mastodon client for iOS - be heard with Herd!
 * ⭐ [Ice Cubes](https://apps.apple.com/gb/app/ice-cubes-for-mastodon/id6444915884) ([Mastodon](https://mastodon.cloud/@icecubesapp) \| [Testflight](https://testflight.apple.com/join/tqI3dK1u) \| [GitHub](https://github.com/Dimillian/IceCubesApp)) - a fast, reliable and beautiful Mastodon client
 * [iMast](https://apps.apple.com/us/app/imast/id1229461703) - **Chinese language only**
-* ⭐ [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) \|\| **paid subscription for features beyond browsing**) - by the makers of TweetBot for Twitter, *in Early Access*
+* ⭐ [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) ([Website](https://tapbots.com/ivory/) \| [Mastodon](https://tapbots.social/@ivory) \|\| **paid subscription for features beyond browsing**) - by the makers of TweetBot for Twitter.
 * [Mammoth](https://apps.apple.com/app/mammoth-for-mastodon/id1667573899) ([Website](https://getmammoth.app/) \| [Mastodon](https://moth.social/@mammoth) \| [GitHub](https://github.com/TheBLVD/mammoth) \| [write.as](https://mammoth.writeas.com/)) - a beautiful Mastodon app by the maker of Aviary for Twitter
 * [Manny](https://apps.apple.com/us/app/manny-for-mastodon/id1668409667) ([Mastodon](https://mastodon.social/@mannyapp)) - a powerful, fast and extremely cute Mastodon client
 * [Maser](https://apps.apple.com/us/app/maser-for-mastodon/id6472905306) ([Website](https://maser.mobi/) \| [Mastodon](https://mastodon.social/@maserapp) \|\| **paid subscription for multiple accounts**) - a powerful and feature-rich Mastodon client that brings the world of decentralized social networking to your fingertips
@@ -138,7 +138,7 @@ Comparison lists:
 * [trunks](https://apps.apple.com/us/app/trunks-for-mastodon/id6444749479) ([Mastodon](https://mstdn.social/@trunksapp) \| [Testflight](https://testflight.apple.com/join/g8J05VSB)) - a cross-platform app with rich features
 * [Tusker](https://apps.apple.com/gb/app/tusker/id1498334597) ([Website](https://vaccor.space/tusker/) \| [Git](https://git.shadowfacts.net/shadowfacts/Tusker)) - a flexible client for Mastodon and other compatible services
 * [Twidere X](https://apps.apple.com/app/twidere-x/id1530314034) ([Website](https://x.twidere.com/) \| [GitHub](https://github.com/TwidereProject/TwidereX-iOS)) - cross-platform, customizable, clean client with plentiful functions for Twitter and Mastodon, *in early stage*
-* [Woolly for Mastodon *Testflight*](https://testflight.apple.com/join/2LVAJQTP) ([Mastodon](https://mastodon.social/@mttvll)) - *no description yet*
+* [Woolly for Mastodon](https://apps.apple.com/us/app/woolly-for-mastodon/id6444360628) ([Mastodon](https://mastodon.social/@mttvll)) - *no description yet*
 
 ##### Tools (Not full clients) (iOS)
 
