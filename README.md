@@ -492,6 +492,7 @@ Comparison lists:
 
 ### Managed hosting
 
+- [Cloud Seeder](https://ipv6.rs/cloudseeder) - One click deployment and management solution for self hosting Mastodon.
 * [Masto.host](https://masto.host) - Fully managed Mastodon hosting.
 * [WebApe](https://webape.site/) - German-based Mastodon hosting service; also provides PeerTube, Nextcloud, Friendica, Matrix, Jitsi Meet, CryptPad and WordPress hosting
 * [toot.io](https://toot.io/mastodon_hosting.html) - Mastodon hosting service that serves HPC at University of Texas Austin, Association for Computing Machinery (ACM), amongst others
