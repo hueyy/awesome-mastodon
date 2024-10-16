@@ -260,6 +260,7 @@ Comparison lists:
 * [Tootfinder](https://tootfinder.ch/) ([Mastodon](https://tooting.ch/@buercher)) - Proof of concept of an opt-in, full-text, global Mastodon search
 * [FeedSeer](https://news.feedseer.com/welcome) - shows you the most popular links that have appeared on your Mastodon feed over the past day
 * [Toot2Mail](https://github.com/eht16/toot2mail) - Generate notification emails from Mastodon toots, useful to passively follow users and hashtags
+* [untitaker/mastodon-list-bot](https://github.com/untitaker/mastodon-list-bot) - Using lists to build curated, slower feeds of people you follow.
 
 ### Toot management
 
@@ -273,7 +274,7 @@ Comparison lists:
 * [Metricdon](https://metricdon.com) - Account and audience analytics, tweet performance tracking, backup and archival.
 
 
-#### Lists
+### Lists
 
 * [hueyy/mastodon-lists-manager](https://mastodon-lists-manager.huey.xyz/) - tool for managing lists and followed users on Mastodon
 * [Mastolists](https://mastolists.novaloop.cloud) - tool for managing lists (list view, matrix view and table view)
