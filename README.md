@@ -172,6 +172,7 @@ Comparison lists:
 * [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) (**paid**) - a macOS Mastodon client, **last update: 2020.11**
 * [Mastonaut](https://apps.apple.com/us/app/mastonaut/id1450757574) ([Website](https://mastonaut.app) \| [Mastodon](https://mastodon.social/@mastonaut) \| [GitHub](https://github.com/brunophilipe/Mastonaut)) - a macOS Mastodon client, **officially archived**, **last update: 2021.10**
 * [Mona](https://github.com/JunyuKuang/Spring-for-Twitter/releases/) ([Mastodon](https://mastodon.social/@MonaApp) \|\| **paid**) - superfast performance, truly native design and a highly customizable user interface from the developer of Spring for Twitter, *in beta*
+* [Ivory for Mac](https://tapbots.com/ivory/mac/)
 
 #### Linux
 
