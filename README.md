@@ -268,6 +268,7 @@ Comparison lists:
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Thread counter by @axbom](https://xbm.se/fediverse/tc.php) - helps you split long posts into a numbered thread
 * [Chirr App](https://getchirrapp.com/) (**paid**)- a web app that intelligently splits a long tweets into a thread; pro users [can crosspost their toots and threads to Mastodon](https://getchirrapp.com/new/2022-11-5)
+* [OpenPost](https://openpost.social) - Schedule and publish posts to Mastodon, Bluesky, X, LinkedIn, Threads, and more.
 
 ### Analytics and Metrics
 * [Metricdon](https://metricdon.com) - Account and audience analytics, tweet performance tracking, backup and archival.
