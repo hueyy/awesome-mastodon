@@ -116,6 +116,7 @@ Comparison lists:
 * [Maser](https://apps.apple.com/us/app/maser-for-mastodon/id6472905306) ([Website](https://maser.mobi/) \| [Mastodon](https://mastodon.social/@maserapp) \|\| **paid subscription for multiple accounts**) - a powerful and feature-rich Mastodon client that brings the world of decentralized social networking to your fingertips
 * [Mast: for Mastodon](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) ([Website](https://www.pnguin.app/) \|\| **paid**) - a beautiful Mastodon app built with macOS design guidelines in mind, **last update: 2020.11**
 * [Mastodon](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) ([Website](https://joinmastodon.org/apps) \| [Mastodon](https://mastodon.social/@Mastodon)  \| [GitHub](https://github.com/mastodon/mastodon-ios)) - the official Mastodon mobile app
+* [MastoDino](https://apps.apple.com/app/mastodino/id6788018589) ([Mastodon](https://mastodon.social/@mattiaslind93)) - a premium Mastodon client with on-device For You ranking, no ads and no tracking
 <!-- * [Mastoon](https://apps.apple.com/us/app/mastoon-for-mastodon/id1633757607) - *link invalid/ removed* -->
 * [Mastoot](https://apps.apple.com/us/app/mastoot/id1501485410) ([Website](https://mastoot.app/) \| [Mastodon](https://mastodon.online/@Mastoot)) - a simple client app for Mastodon
 * [Masty](https://apps.apple.com/us/app/masty-for-mastodon/id6474093104) ([Website](https://masty.nikolajjsj.com/)) - A beautiful and featurefull Mastodon client!
